@@ -39,10 +39,11 @@ Want to dive right in? [Jump to Downloading & Installing »](chrome-extension-ev
 
 ### Download
 
-[DOWNLOAD THE EXTENSION HERE »](https://getsparrow.co/event\_finder/event\_finder.zip) ([https://www.getsparrow.co/event\_finder/event\_finder.zip](https://www.getsparrow.co/event\_finder/event\_finder.zip))
+[DOWNLOAD THE EXTENSION HERE »](https://github.com/sparroweventmarketing/event\_finder/zipball/master)
 
 **Version**: 0.0.1\
-**Last updated**: 01-05-2024
+**Last updated**: 01-05-2024\
+[View Github for the latest info.](https://github.com/sparroweventmarketing/event\_finder)
 
 ***
 
