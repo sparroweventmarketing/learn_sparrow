@@ -1,5 +1,9 @@
 # Updates
 
+## 01-16-2024
+
+* Expenses with attachments will now be noted with a 📎 symbol on the Expenses tab.
+
 ## 12-30-2024
 
 * Expenses:
