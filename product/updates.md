@@ -1,5 +1,11 @@
 # Updates
 
+## 06-13-2024
+
+* (Beta) New Integration - Automatically upload Adpacks into Prism.
+
+<figure><img src="../.gitbook/assets/CleanShot 2024-06-13 at 21.49.41@2x.jpg" alt=""><figcaption></figcaption></figure>
+
 ## 01-16-2024
 
 * Expenses with attachments will now be noted with a 📎 symbol on the Expenses tab.

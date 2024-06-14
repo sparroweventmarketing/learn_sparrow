@@ -34,11 +34,11 @@
 * [Updates](product/updates.md)
 * [Sparrow Roadmap](https://trello.com/b/vdMFsxE8/sparrow-product-development-roadmap)
 
-## ℹ More Info
+## ℹ️ More Info
 
 * [Supported Merge Tags](more-info/supported-merge-tags.md)
 
-## ✏ Tutorials
+## ✏️ Tutorials
 
 * [Integrations](tutorials/integrations/README.md)
   * [Map Ticket Counts to an Event](https://app.tango.us/app/workflow/Custom-mapping-tickets-counts-in-Sparrow-d3ac8c2875384cc4916a0a782c5ec2cf)
