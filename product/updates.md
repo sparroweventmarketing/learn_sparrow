@@ -1,8 +1,16 @@
 # Updates
 
+## 06-25-2024
+
+* (Beta) New Automation: Generate Promo Ideas
+  *   Harness the power of AI and Sparrow to generate event and market-specific promotional ideas for your show.  "Generate Promo Ideas" aims to help you brainstorm new outreach channels in your market.\
+
+
+      <figure><img src="../.gitbook/assets/CleanShot 2024-06-25 at 22.03.51@2x.jpg" alt=""><figcaption></figcaption></figure>
+
 ## 06-13-2024
 
-* (Beta) New Integration - Automatically upload Adpacks into Prism.
+* (Beta, Request Access) New Integration - Automatically upload Adpacks into Prism.
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-06-13 at 21.49.41@2x.jpg" alt=""><figcaption></figcaption></figure>
 
