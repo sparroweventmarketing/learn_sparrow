@@ -6,7 +6,11 @@
   *   Harness the power of AI and Sparrow to generate event and market-specific promotional ideas for your show.  "Generate Promo Ideas" aims to help you brainstorm new outreach channels in your market.\
 
 
-      <figure><img src="../.gitbook/assets/CleanShot 2024-06-25 at 22.03.51@2x.jpg" alt=""><figcaption></figcaption></figure>
+      <div data-full-width="true">
+
+      <figure><img src="../.gitbook/assets/CleanShot 2024-06-25 at 22.16.00@2x.jpg" alt=""><figcaption></figcaption></figure>
+
+      </div>
 
 ## 06-13-2024
 
