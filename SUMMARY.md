@@ -45,6 +45,7 @@
   * [Confirm an Event from Prism](https://app.tango.us/app/workflow/Confirming-an-imported-event-from-Prism-3a184cf87d434f21a5d848c51d37e486)
   * [Import Facebook Ad Spends to an Event](https://app.tango.us/app/workflow/Importing-Facebook-Spends-9aea6893e1454c4bacb7eca97d01b213)
   * [Automatic Receipts/Invoice Reader](tutorials/integrations/automatic-receipts-invoice-reader.md)
+  * [Connecting Meta to Sparrow](tutorials/integrations/connecting-meta-to-sparrow.md)
   * [Meta Event Feed](tutorials/integrations/meta-event-feed.md)
   * [Connecting Prism](tutorials/integrations/connecting-prism.md)
   * [Chrome Extension: Event Finder](tutorials/integrations/chrome-extension-event-finder.md)
