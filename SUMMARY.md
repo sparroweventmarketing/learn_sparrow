@@ -52,6 +52,8 @@
   * [Ticketing Integrations](tutorials/integrations/ticketing-integrations/README.md)
     * [Ticketmaster](https://app.tango.us/app/workflow/Scheduling-Daily-Reports-in-Ticketmaster-7ea8cd78a5454ecfa931252e167ec1c2)
     * [Ticketweb](https://app.tango.us/app/workflow/Sparrow----TicketWeb--How-to-Schedule-Ticket-Counts-Report-58c7f0d42fd14845867d7f496d4d8006)
+  * [Additional Integrations](tutorials/integrations/additional-integrations/README.md)
+    * [Asana Integration](tutorials/integrations/additional-integrations/asana-integration.md)
 * [Automations](tutorials/automations/README.md)
   * [Automate with Task Groups](https://app.tango.us/app/workflow/Automating-with-Task-Groups-272b2d46bf894a978c73a9d9249c59f7)
   * [Create an Adpack](https://app.tango.us/app/workflow/Create-an-Adpack-Cover-Sheet-c9ed9dad706c4d2d8cd456eb302e20ee)
