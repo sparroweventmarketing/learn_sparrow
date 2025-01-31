@@ -58,7 +58,7 @@ Sparrow tasks can have one of 3 statuses:
 
 There are 3 main ways to update the status:
 
-1. **In the Kanban-style view, change the status by **_**dragging the cards**_** into a new column**
+1. **In the Kanban-style view, change the status by&#x20;**_**dragging the cards**_**&#x20;into a new column**
 2. **In the task detail view, click the "Mark Done" action button.**
 3. **In the task detail view**, **click the "Tasks" tab > "Quick Edit" > "Status".**
 

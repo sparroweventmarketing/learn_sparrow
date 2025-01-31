@@ -36,7 +36,7 @@ Automations can take up to 5 minutes to run.  You can leave the automations page
 
 3. **Review your completed automations.**  From the Event Details page, go back to the Automations tab to view their status.  If they are 'Done', then move on to the following steps:\
    \
-   _Click "Do Some Research"_. Look at 'Genre', 'Similar Artists', and listen to a few tracks.  Use this information to update event info in your Event Details page (e.g. Similar artists).\
+   &#xNAN;_&#x43;lick "Do Some Research"_. Look at 'Genre', 'Similar Artists', and listen to a few tracks.  Use this information to update event info in your Event Details page (e.g. Similar artists).\
    \
    Go back to your Automations tab and click "_Create Marketing Plan_".  Right-click each image and select 'Save As' to save it to your computer.  Upload these graphics to the _Assets_ tab in your Event Details page.\
    \
