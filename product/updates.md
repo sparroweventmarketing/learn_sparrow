@@ -1,16 +1,35 @@
 # Updates
 
+## 01-31-2025
+
+### Default Automations
+
+Now you can set **default automations** to run immediately when an event is first created.  **Default automations** are set on the venue level and can be customized by venue. &#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Editing your Default Automations
+
+Default Automations are set on the _Venue Profile Page_. &#x20;
+
+1. To get to the Venue Profile Page, navigate to **More > Venues**&#x20;
+2. Select the venue you want to edit and go into it's profile.
+3. Click the **Settings tab.**
+4. You will see a Default Automations section.  To edit it, press the **Edit** button in the upper right corner or **E** on your keyboard.
+5. Some automations have additional settings that will pop up when you choose them.
+6. Default automations run automatically when an event for that venue is created in Sparrow.  Results can be seen under the events Automations tab.
+
+<figure><img src="../.gitbook/assets/ezgif-33be23770232d.gif" alt=""><figcaption></figcaption></figure>
+
+
+
 ## 06-25-2024
 
 * (Beta) New Automation: Generate Promo Ideas
   *   Harness the power of AI and Sparrow to generate event and market-specific promotional ideas for your show.  "Generate Promo Ideas" aims to help you brainstorm new outreach channels in your market.\
 
 
-      <div data-full-width="true">
-
-      <figure><img src="../.gitbook/assets/CleanShot 2024-06-25 at 22.16.00@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-      </div>
+      <div data-full-width="true"><figure><img src="../.gitbook/assets/CleanShot 2024-06-25 at 22.16.00@2x.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## 06-13-2024
 
@@ -131,15 +150,7 @@ Simply forward your invoiced to an email and Sparrow will automatically categori
     \
     You can access this when creating a new task under _Date Settings._  Repeatable tasks are denoted with a ↻ symbol.
 
-<div>
-
-<figure><img src="../.gitbook/assets/CleanShot 2023-03-09 at 22.44.06@2x.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/CleanShot 2023-03-09 at 22.49.21@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/CleanShot 2023-03-09 at 22.44.06@2x.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/CleanShot 2023-03-09 at 22.49.21@2x.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### 02-27-2023
 
@@ -156,15 +167,7 @@ Simply forward your invoiced to an email and Sparrow will automatically categori
     \
     Once the automation completes, you'll see an option to download all expense attachments for that event as a Zip file:
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/CleanShot 2023-02-24 at 15.21.08@2x.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/CleanShot 2023-02-24 at 15.25.55@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/CleanShot 2023-02-24 at 15.21.08@2x.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/CleanShot 2023-02-24 at 15.25.55@2x.jpg" alt=""><figcaption></figcaption></figure></div>
 
 * **Ticketweb Integration** -&#x20;
   * Sparrow now supports Ticketweb in its ticketing integration!  To activate, contact your client rep.\
