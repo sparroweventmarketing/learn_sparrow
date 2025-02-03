@@ -2,11 +2,7 @@
 
 Sparrow can pass event information into Meta's 'Commerce Manager'.  This allows you to use Sparrow data to quickly create Meta ads, as well as have an 'always on' carousel ads that allow your ads to automatically swap in and out based on what's on sale.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/CleanShot 2023-12-14 at 21.48.05@2x.jpg" alt="" width="250"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2023-12-14 at 21.48.05@2x.jpg" alt="" width="250"><figcaption></figcaption></figure></div>
 
 ### Set up.
 
@@ -29,15 +25,10 @@ To create a set:
 
 ### Product Mapping Table
 
-<table><thead><tr><th>Meta Commerce Field</th><th width="281.3333333333333">Sparrow Field</th><th>Notes</th></tr></thead><tbody><tr><td>Title</td><td>Event Name</td><td><mark style="color:red;">Required</mark></td></tr><tr><td>Description</td><td>Date (MM/DD) + Event Name</td><td></td></tr><tr><td>Link</td><td>Ticket Link</td><td><mark style="color:red;">Required</mark></td></tr><tr><td>Image</td><td>'On Sale' Graphic OR Press Photo</td><td><mark style="color:red;">Required</mark>. Defaults to press photo if on sale graphic doesn't exist.</td></tr><tr><td>Brand</td><td>Type of Show</td><td></td></tr><tr><td>Price</td><td>Minimum event price</td><td><mark style="color:red;">Required</mark>. Defaults to 0 if no price exists.</td></tr><tr><td>Custom Label 0</td><td>Genre</td><td></td></tr><tr><td>Custom Number 0</td><td>Event Days Out</td><td></td></tr><tr><td>Custom Number 1</td><td>On Sale Days Out</td><td></td></tr><tr><td>Custom Number 2</td><td>Remaining Budget</td><td>Defaults to 0</td></tr></tbody></table>
+<table><thead><tr><th>Meta Commerce Field</th><th width="281.3333333333333">Sparrow Field</th><th>Notes</th></tr></thead><tbody><tr><td>Title</td><td>Event Name</td><td><mark style="color:red;">Required</mark></td></tr><tr><td>Description</td><td>Date (MM/DD) + Event Name</td><td></td></tr><tr><td>Link</td><td>Ticket Link</td><td><mark style="color:red;">Required</mark></td></tr><tr><td>Image</td><td>'On Sale' Graphic OR Press Photo</td><td><mark style="color:red;">Required</mark>. Defaults to press photo if on sale graphic doesn't exist.</td></tr><tr><td>Brand</td><td>Event Tags</td><td></td></tr><tr><td>Price</td><td>Minimum event price</td><td><mark style="color:red;">Required</mark>. Defaults to 0 if no price exists.</td></tr><tr><td>Custom Label 0</td><td>Genre</td><td></td></tr><tr><td>Custom Label 2</td><td>Venue</td><td></td></tr><tr><td>Custom Number 0</td><td>Event Days Out</td><td></td></tr><tr><td>Custom Number 1</td><td>On Sale Days Out</td><td></td></tr><tr><td>Custom Number 2</td><td>Remaining Budget</td><td>Defaults to 0</td></tr></tbody></table>
 
 ### Advertising Using The Event Feed
 
 When creating a new ad in Meta's Ads Manager, choose "Sales" as an objective.  This will allow you to select a "Catalog" and "Product Set" from your Commerce Manager.  Additionally you can use fields from the Product Mapping table above in your ad text.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2023-12-14 at 22.19.30@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
